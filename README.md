@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Gusain</h1>
 <h3 align="center">Dedicated to innovation, driven by code.🌟💻</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagusain101&label=Profile%20views&color=0e75b6&style=flat" alt="poojagusain101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagusain101&label=Profile%20views&color=0e75b6&style=flat" alt="poojagusain101"> </p>
 
 - 🔭 I’m currently working on [AURA](https://github.com/Himanshu0-1-0/AURA)
 
