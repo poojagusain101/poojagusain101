@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGCwI7MkeI/ybV4wRdCo92MLSE8Wu2d1g/view?utm_content=DAGCwI7MkeI&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://github.com/poojagusain101)
+[![MasterHead](https://www.canva.com/design/DAGCwI7MkeI/ybV4wRdCo92MLSE8Wu2d1g/view?utm_content=DAGCwI7MkeI&utm_campaign=designshare&utm_medium=link&utm_source=viewer)](https://github.com/poojagusain101)
 <h1 align="center">Hi 👋, I'm Pooja Gusain</h1>
 <h3 align="center">Dedicated to innovation, driven by code.🌟💻</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdkNc3CIF8ZSiGCN18ztWcnigto7sf9hH1lYZI1gDkBw&s">
