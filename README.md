@@ -1,7 +1,7 @@
 [![MasterHead](https://www.canva.com/design/DAGCwI7MkeI/ybV4wRdCo92MLSE8Wu2d1g/view?utm_content=DAGCwI7MkeI&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://github.com/poojagusain101)
 <h1 align="center">Hi 👋, I'm Pooja Gusain</h1>
 <h3 align="center">Dedicated to innovation, driven by code.🌟💻</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"/>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagusain101&label=Profile%20views&color=0e75b6&style=flat" alt="poojagusain101"> </p>
 
 - 🔭 I’m currently working on [AURA](https://github.com/Himanshu0-1-0/AURA)
