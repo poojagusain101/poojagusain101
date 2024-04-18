@@ -1,7 +1,7 @@
 [![MasterHead](https://www.canva.com/design/DAGCwI7MkeI/ybV4wRdCo92MLSE8Wu2d1g/view?utm_content=DAGCwI7MkeI&utm_campaign=designshare&utm_medium=link&utm_source=viewer)](https://github.com/poojagusain101)
 <h1 align="center">Hi 👋, I'm Pooja Gusain</h1>
 <h3 align="center">Dedicated to innovation, driven by code.🌟💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1bccf360b3176699c2311bb48cc462b14bd872cdbc12775a68a2d18c823be833/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojagusain101&label=Profile%20views&color=0e75b6&style=flat" alt="poojagusain101"> </p>
 
 - 🔭 I’m currently working on [AURA](https://github.com/Himanshu0-1-0/AURA)
